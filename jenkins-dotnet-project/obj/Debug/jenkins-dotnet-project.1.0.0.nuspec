@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>jenkins-dotnet-project</id>
+    <version>1.0.0</version>
+    <authors>jenkins-dotnet-project</authors>
+    <owners>jenkins-dotnet-project</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.runtimeconfig.json" target="lib/netcoreapp3.0/jenkins-dotnet-project.runtimeconfig.json" />
+    <file src="/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.dll" target="lib/netcoreapp3.0/jenkins-dotnet-project.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.deps.json
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.runtimeconfig.json
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.runtimeconfig.dev.json
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.dll
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/bin/Debug/netcoreapp3.0/jenkins-dotnet-project.pdb
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/obj/Debug/netcoreapp3.0/jenkins-dotnet-project.csprojAssemblyReference.cache
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/obj/Debug/netcoreapp3.0/jenkins-dotnet-project.AssemblyInfoInputs.cache
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/obj/Debug/netcoreapp3.0/jenkins-dotnet-project.AssemblyInfo.cs
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/obj/Debug/netcoreapp3.0/jenkins-dotnet-project.dll
+/home/kubernetes/projects/netcore/app-backend/jenkins-dotnet-project/obj/Debug/netcoreapp3.0/jenkins-dotnet-project.pdb
